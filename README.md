@@ -19,8 +19,6 @@ You can download the latest version of the Italian White List here: [Download It
 
 ## Usage
 
-## Usage
-
 To import this whitelist into AdGuard Home:
 1. Open the AdGuard Home dashboard in your browser.
 2. Go to **Filters** > **DNS allowlist**.
