@@ -1,4 +1,6 @@
 # Italian White List for AdGuard DNS
+![alt text](https://badgen.net/badge/platform/AdGuard/orange?) ![alt text](https://badgen.net/badge/content/whitelist/green?)
+
 This repository provides a comprehensive whitelist of the top 2500 most visited and trusted Italian domains, formatted for AdGuard DNS. The list includes syntax to allow both main domains and subdomains, enhancing browsing efficiency and ensuring seamless access to reliable Italian websites.
 
 **A curated whitelist of the top 2500 most visited and trusted Italian domains for AdGuard DNS.**  
