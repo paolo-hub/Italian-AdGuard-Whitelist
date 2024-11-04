@@ -13,7 +13,7 @@ This repository provides a comprehensive whitelist of Italian domains, formatted
 
 ## Download
 
-You can download the latest version of the Italian White List here: [Download Italian White List](https://example.com/download)
+You can download the latest version of the Italian White List here: [Download Italian White List](https://raw.githubusercontent.com/paolo-hub/Italian-AdGuard-Whitelist/refs/heads/main/adguard_italian_whitelist.txt)
 
 ## Usage
 
