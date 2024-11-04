@@ -3,6 +3,8 @@
 
 This repository provides a comprehensive whitelist of the top 2500 most visited and trusted Italian domains, formatted for AdGuard DNS. The list includes syntax to allow both main domains and subdomains, enhancing browsing efficiency and ensuring seamless access to reliable Italian websites.
 
+<img src="https://github.com/paolo-hub/Italian-AdGuard-Whitelist/blob/8995951471866f8a07a24cc781ac96272b5f9078/Italian%20Whitelist.jpg" alt="Italian Whitelist" width="300"/>
+
 **A curated whitelist of the top 2500 most visited and trusted Italian domains for AdGuard DNS.**  
 
 This list has been designed to enhance your browsing experience by allowing seamless access to reliable Italian websites while maintaining AdGuard DNS filtering.
