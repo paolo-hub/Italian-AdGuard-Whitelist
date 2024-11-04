@@ -1,8 +1,6 @@
 # Italian Whitelist for AdGuard Home
 ![alt text](https://badgen.net/badge/platform/AdGuard/orange?) ![alt text](https://badgen.net/badge/content/whitelist/green?)
 
-This repository provides a comprehensive whitelist of the top 2500 most visited and trusted Italian domains, formatted for AdGuard DNS. The list includes syntax to allow both main domains and subdomains, enhancing browsing efficiency and ensuring seamless access to reliable Italian websites.
-
 <img src="https://github.com/paolo-hub/Italian-AdGuard-Whitelist/blob/8995951471866f8a07a24cc781ac96272b5f9078/Italian%20Whitelist.jpg" alt="Italian Whitelist" width="300"/>
 
 **A curated whitelist of the top 2500 most visited and trusted Italian domains for AdGuard DNS.**  
@@ -11,7 +9,7 @@ This list has been designed to enhance your browsing experience by allowing seam
 
 ## Overview
 
-This repository provides a comprehensive whitelist of Italian domains, formatted for compatibility with AdGuard DNS. All main domains and subdomains are allowed, ensuring full access to essential Italian websites across news, e-commerce, services, and more.
+This repository provides a comprehensive whitelist of the top 2500 most visited and trusted Italian domains, formatted for AdGuard DNS. The list includes syntax to allow both main domains and subdomains, enhancing browsing efficiency and ensuring seamless access to reliable Italian websites.
 
 ## Download
 
@@ -24,8 +22,8 @@ To import this whitelist into AdGuard Home:
 2. Go to **Filters** > **DNS allowlist**.
 3. Click on **Add allowlist**.
 4. Fill in the required details:
-   - **Name**: Provide a descriptive name, such as **"Italian White List"**.
-   - **URL**: Paste the direct link to the whitelist file in this repository (e.g., `https://raw.githubusercontent.com/your-username/your-repository/main/italian_whitelist.txt`).
+   - **Name**: Provide a descriptive name, such as **"Italian Whitelist"**.
+   - **URL**: Paste the direct link to the whitelist: [Italian Whitelist](https://raw.githubusercontent.com/paolo-hub/Italian-AdGuard-Whitelist/refs/heads/main/adguard_italian_whitelist.txt).
 5. Click **Save** to add the whitelist.
 6. Ensure the filters are updated to apply the new rules.
 
